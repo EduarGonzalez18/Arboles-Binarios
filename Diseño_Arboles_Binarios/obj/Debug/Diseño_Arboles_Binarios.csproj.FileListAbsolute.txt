@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\bin\Debug\Diseño_Arboles_Binarios.exe.config
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\bin\Debug\Diseño_Arboles_Binarios.exe
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\bin\Debug\Diseño_Arboles_Binarios.pdb
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.Form1.resources
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.Properties.Resources.resources
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.exe
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.pdb
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.Menucs.resources
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.Escenario_Uno.resources
+C:\Users\usuario\source\repos\Diseño_Arboles_Binarios\obj\Debug\Diseño_Arboles_Binarios.Escenario_Dos.resources
